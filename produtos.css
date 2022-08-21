@@ -10,9 +10,9 @@ header {
 }
 
 nav{
-   position: absolute;
+   position: fixed;
    top: 110px;
-   right: 0;
+   right: 80px;
 }
 
 nav li {
